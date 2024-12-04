@@ -1,0 +1,14 @@
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\bin\Debug\net9.0\classes.exe
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\bin\Debug\net9.0\classes.deps.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\bin\Debug\net9.0\classes.runtimeconfig.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\bin\Debug\net9.0\classes.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\bin\Debug\net9.0\classes.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\Debug\net9.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\Debug\net9.0\classes.AssemblyInfoInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\Debug\net9.0\classes.AssemblyInfo.cs
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\Debug\net9.0\classes.csproj.CoreCompileInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\Debug\net9.0\classes.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\Debug\net9.0\refint\classes.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\Debug\net9.0\classes.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\Debug\net9.0\classes.genruntimeconfig.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\Debug\net9.0\ref\classes.dll
