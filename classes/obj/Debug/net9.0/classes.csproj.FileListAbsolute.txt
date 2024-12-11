@@ -12,3 +12,4 @@ c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\
 c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\Debug\net9.0\classes.pdb
 c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\Debug\net9.0\classes.genruntimeconfig.cache
 c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\Debug\net9.0\ref\classes.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\classes\classes\obj\Debug\net9.0\classes.sourcelink.json

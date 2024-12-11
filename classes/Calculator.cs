@@ -1,6 +1,3 @@
-
-using System.ComponentModel;
-
 public class Calculator {
     int a;
     int b;
@@ -45,5 +42,4 @@ public class Calculator {
                 break;
         }
     } 
-
 }
